@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2f630efffc2ba42a599ae076d48bfac2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 323819
+  packageName: Stylized Projectile FX Kit Mini Vol1
+  packageVersion: 1.1
+  assetPath: Assets/CriticalVFX/StylizedProjectileFXKit_Mini_Vo1/Demo/SPFXKMINIV1
+    Demo/SceneData/CVFX_Demo_LightingSetting.lighting
+  uploadId: 776173

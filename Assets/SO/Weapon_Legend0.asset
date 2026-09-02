@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d465832a72e6057439209f250d6a6a8f, type: 3}
+  m_Name: Weapon_Legend0
+  m_EditorClassIdentifier: 
+  weaponId: 12
+  rarity: 3
+  icon: {fileID: -5120051823732000820, guid: d2013fa0f41a24b4c888ace3884746a4, type: 3}
+  description: 효과 없음

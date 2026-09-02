@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__UnityMCP__read_console",
+      "Bash(rm *)",
+      "mcp__ide__getDiagnostics"
+    ]
+  }
+}

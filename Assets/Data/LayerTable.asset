@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c939c519a6b7814ca98309b7792729f, type: 3}
+  m_Name: LayerTable
+  m_EditorClassIdentifier: Assembly-CSharp::LayerTable
+  layers:
+  - layerName: Layer 1
+    minRow: 0
+    chunkPrefabs:
+    - {fileID: 7603973735184308472, guid: e0c4cb315d694f54881a309f938c0a2f, type: 3}
+    - {fileID: 7603973735184308472, guid: 46a61c7f7276e0c4597370b0d52e3603, type: 3}
+    - {fileID: 7603973735184308472, guid: 8d421bd297c2ec94086a8aeb508bfe2b, type: 3}
+    - {fileID: 7603973735184308472, guid: e088591ef7f003e42b68b504d3eff8b6, type: 3}
+    - {fileID: 7603973735184308472, guid: e1102802537e35c4f8ba0d6562a17da9, type: 3}
+    - {fileID: 7603973735184308472, guid: 10a59bb2a14f13148a7afc135e573b95, type: 3}
+    - {fileID: 7603973735184308472, guid: 9790ecac442a3f445897b78d67d7b1e9, type: 3}
+    recentExcludeCount: 2
+  - layerName: Layer 2
+    minRow: 100
+    chunkPrefabs:
+    - {fileID: 7603973735184308472, guid: 27b2d42ed8d711649b704b1f893c40a9, type: 3}
+    - {fileID: 7603973735184308472, guid: 0a6a5f61066bf8d479b956c860a8b09d, type: 3}
+    - {fileID: 7603973735184308472, guid: efdf8a4ad9a61e44d8b856a4a757d11a, type: 3}
+    - {fileID: 7603973735184308472, guid: 5ca426c119478854aa5e0b06ac9ce288, type: 3}
+    - {fileID: 7603973735184308472, guid: 00afa998f13a1564ca8e62a87a7ea389, type: 3}
+    - {fileID: 7603973735184308472, guid: c31281b63bc1a3148961ee05d1180fc5, type: 3}
+    recentExcludeCount: 2
+  - layerName: Layer 3
+    minRow: 300
+    chunkPrefabs:
+    - {fileID: 7603973735184308472, guid: 4a96b450d535b1845a02032c3cc53735, type: 3}
+    - {fileID: 7603973735184308472, guid: 5c45ab24a7c8b7a4ab2b9a8579a3d85f, type: 3}
+    - {fileID: 7603973735184308472, guid: 5f98a13e98282644f93d6159e55fd4a2, type: 3}
+    - {fileID: 7603973735184308472, guid: 8ec512317e671b24b859c1b719a54465, type: 3}
+    - {fileID: 7603973735184308472, guid: f91bf6d6bbcb5ec42ac62bbd8ba224bc, type: 3}
+    - {fileID: 7603973735184308472, guid: 066d84fbeec5c5041a8acab7ce4a4e68, type: 3}
+    recentExcludeCount: 2
+  - layerName: Layer 4
+    minRow: 600
+    chunkPrefabs:
+    - {fileID: 7603973735184308472, guid: 8e6f14541523d584dad412f28bf39c1c, type: 3}
+    - {fileID: 7603973735184308472, guid: 81c6cf9cc74df4240b9304250614640c, type: 3}
+    - {fileID: 7603973735184308472, guid: 01361f16c11ce3a4a8d530c6a9d818af, type: 3}
+    - {fileID: 7603973735184308472, guid: 8fdfa6018c106f24788c2619d7fa07d0, type: 3}
+    - {fileID: 7603973735184308472, guid: 34b8aefcf14a8ae49b4813ba8a2afa6d, type: 3}
+    - {fileID: 7603973735184308472, guid: cd1080160e0527a408029427b26d0d1c, type: 3}
+    recentExcludeCount: 2

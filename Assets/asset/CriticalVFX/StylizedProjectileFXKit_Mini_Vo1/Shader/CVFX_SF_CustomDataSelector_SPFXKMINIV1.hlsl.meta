@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 620dfa211a6de4cbd935bee922dd222f
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 323819
+  packageName: Stylized Projectile FX Kit Mini Vol1
+  packageVersion: 1.1
+  assetPath: Assets/CriticalVFX/StylizedProjectileFXKit_Mini_Vo1/Shader/CVFX_SF_CustomDataSelector_SPFXKMINIV1.hlsl
+  uploadId: 776173

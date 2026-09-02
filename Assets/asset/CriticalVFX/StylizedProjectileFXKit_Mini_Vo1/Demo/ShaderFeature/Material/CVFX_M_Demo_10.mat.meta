@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f19d1aa0137fa484894ac7be24effcfa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 323819
+  packageName: Stylized Projectile FX Kit Mini Vol1
+  packageVersion: 1.1
+  assetPath: Assets/CriticalVFX/StylizedProjectileFXKit_Mini_Vo1/Demo/ShaderFeature/Material/CVFX_M_Demo_10.mat
+  uploadId: 776173

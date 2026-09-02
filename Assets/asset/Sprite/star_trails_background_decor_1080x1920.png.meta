@@ -1,0 +1,6656 @@
+fileFormatVersion: 2
+guid: fd072a0780dbbf3419d84ca1a40cd44e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3049078298981317995
+    second: star_trails_background_decor_1080x1920_0
+  - first:
+      213: -8066881026727674562
+    second: star_trails_background_decor_1080x1920_1
+  - first:
+      213: 629252724816364063
+    second: star_trails_background_decor_1080x1920_2
+  - first:
+      213: 4395022685573144389
+    second: star_trails_background_decor_1080x1920_3
+  - first:
+      213: 1339947676971412767
+    second: star_trails_background_decor_1080x1920_4
+  - first:
+      213: 3376838702086370267
+    second: star_trails_background_decor_1080x1920_5
+  - first:
+      213: -6407182171365603534
+    second: star_trails_background_decor_1080x1920_6
+  - first:
+      213: -8983436870498060601
+    second: star_trails_background_decor_1080x1920_7
+  - first:
+      213: 926513466762826969
+    second: star_trails_background_decor_1080x1920_8
+  - first:
+      213: -5366032714673126143
+    second: star_trails_background_decor_1080x1920_9
+  - first:
+      213: -5231528790674910864
+    second: star_trails_background_decor_1080x1920_10
+  - first:
+      213: 1894123896227078773
+    second: star_trails_background_decor_1080x1920_11
+  - first:
+      213: 8742528947879151852
+    second: star_trails_background_decor_1080x1920_12
+  - first:
+      213: 8734467095249272441
+    second: star_trails_background_decor_1080x1920_13
+  - first:
+      213: -8128910475613369723
+    second: star_trails_background_decor_1080x1920_14
+  - first:
+      213: 5065612390820682721
+    second: star_trails_background_decor_1080x1920_15
+  - first:
+      213: -788473941546025454
+    second: star_trails_background_decor_1080x1920_16
+  - first:
+      213: 3657860781322902936
+    second: star_trails_background_decor_1080x1920_17
+  - first:
+      213: -4528866384477076641
+    second: star_trails_background_decor_1080x1920_18
+  - first:
+      213: -8561088956155819086
+    second: star_trails_background_decor_1080x1920_19
+  - first:
+      213: 1461645202777061646
+    second: star_trails_background_decor_1080x1920_20
+  - first:
+      213: 1735126112274093605
+    second: star_trails_background_decor_1080x1920_21
+  - first:
+      213: 3879981890960053351
+    second: star_trails_background_decor_1080x1920_22
+  - first:
+      213: -8085522033118123757
+    second: star_trails_background_decor_1080x1920_23
+  - first:
+      213: -8800270843913016109
+    second: star_trails_background_decor_1080x1920_24
+  - first:
+      213: 2603530427956721540
+    second: star_trails_background_decor_1080x1920_25
+  - first:
+      213: 5118389646892540718
+    second: star_trails_background_decor_1080x1920_26
+  - first:
+      213: 8438067327130371963
+    second: star_trails_background_decor_1080x1920_27
+  - first:
+      213: 706265715876061954
+    second: star_trails_background_decor_1080x1920_28
+  - first:
+      213: 7445224308710592095
+    second: star_trails_background_decor_1080x1920_29
+  - first:
+      213: 8638643710642368035
+    second: star_trails_background_decor_1080x1920_30
+  - first:
+      213: -2160635372406629675
+    second: star_trails_background_decor_1080x1920_31
+  - first:
+      213: -2390970085365984737
+    second: star_trails_background_decor_1080x1920_32
+  - first:
+      213: -2221802200849566408
+    second: star_trails_background_decor_1080x1920_33
+  - first:
+      213: -7186846489940026740
+    second: star_trails_background_decor_1080x1920_34
+  - first:
+      213: 1079085944061026381
+    second: star_trails_background_decor_1080x1920_35
+  - first:
+      213: -5670901623689132284
+    second: star_trails_background_decor_1080x1920_36
+  - first:
+      213: 973097645664346225
+    second: star_trails_background_decor_1080x1920_37
+  - first:
+      213: -1589831916539757491
+    second: star_trails_background_decor_1080x1920_38
+  - first:
+      213: -2348611790663866798
+    second: star_trails_background_decor_1080x1920_39
+  - first:
+      213: -5508956102984089991
+    second: star_trails_background_decor_1080x1920_40
+  - first:
+      213: 5436084636512319639
+    second: star_trails_background_decor_1080x1920_41
+  - first:
+      213: -5452854701449940134
+    second: star_trails_background_decor_1080x1920_42
+  - first:
+      213: 7623643548101563879
+    second: star_trails_background_decor_1080x1920_43
+  - first:
+      213: -1360386421962327974
+    second: star_trails_background_decor_1080x1920_44
+  - first:
+      213: 1122222316455004905
+    second: star_trails_background_decor_1080x1920_45
+  - first:
+      213: 8986446151930366393
+    second: star_trails_background_decor_1080x1920_46
+  - first:
+      213: 9007806589889435172
+    second: star_trails_background_decor_1080x1920_47
+  - first:
+      213: 7139529287138613401
+    second: star_trails_background_decor_1080x1920_48
+  - first:
+      213: -3579545488548642884
+    second: star_trails_background_decor_1080x1920_49
+  - first:
+      213: 5153607865111347770
+    second: star_trails_background_decor_1080x1920_50
+  - first:
+      213: -8663667362024790636
+    second: star_trails_background_decor_1080x1920_51
+  - first:
+      213: 6168802995968271267
+    second: star_trails_background_decor_1080x1920_52
+  - first:
+      213: 664229347185414960
+    second: star_trails_background_decor_1080x1920_53
+  - first:
+      213: -6141044843673144857
+    second: star_trails_background_decor_1080x1920_54
+  - first:
+      213: -4432312336409417809
+    second: star_trails_background_decor_1080x1920_55
+  - first:
+      213: -8377329616103198488
+    second: star_trails_background_decor_1080x1920_56
+  - first:
+      213: 1008142380048161095
+    second: star_trails_background_decor_1080x1920_57
+  - first:
+      213: -5653644223781992378
+    second: star_trails_background_decor_1080x1920_58
+  - first:
+      213: -736172787002650698
+    second: star_trails_background_decor_1080x1920_59
+  - first:
+      213: -3084230803346159923
+    second: star_trails_background_decor_1080x1920_60
+  - first:
+      213: 2360240066578632658
+    second: star_trails_background_decor_1080x1920_61
+  - first:
+      213: -4282583919833913142
+    second: star_trails_background_decor_1080x1920_62
+  - first:
+      213: 3690269740423710261
+    second: star_trails_background_decor_1080x1920_63
+  - first:
+      213: -8545485514928990481
+    second: star_trails_background_decor_1080x1920_64
+  - first:
+      213: -131344488603118626
+    second: star_trails_background_decor_1080x1920_65
+  - first:
+      213: -2921081445094179712
+    second: star_trails_background_decor_1080x1920_66
+  - first:
+      213: -1891968316664456783
+    second: star_trails_background_decor_1080x1920_67
+  - first:
+      213: -3165710533392290189
+    second: star_trails_background_decor_1080x1920_68
+  - first:
+      213: 8842710007409626758
+    second: star_trails_background_decor_1080x1920_69
+  - first:
+      213: 8736690177405204987
+    second: star_trails_background_decor_1080x1920_70
+  - first:
+      213: -83174775567859066
+    second: star_trails_background_decor_1080x1920_71
+  - first:
+      213: 2941302501238644818
+    second: star_trails_background_decor_1080x1920_72
+  - first:
+      213: 3837662079728297937
+    second: star_trails_background_decor_1080x1920_73
+  - first:
+      213: 2518206999397210046
+    second: star_trails_background_decor_1080x1920_74
+  - first:
+      213: -5619348809212538296
+    second: star_trails_background_decor_1080x1920_75
+  - first:
+      213: -7337639401666217447
+    second: star_trails_background_decor_1080x1920_76
+  - first:
+      213: -1417404694534107928
+    second: star_trails_background_decor_1080x1920_77
+  - first:
+      213: -163807705376841187
+    second: star_trails_background_decor_1080x1920_78
+  - first:
+      213: 8965755081116221967
+    second: star_trails_background_decor_1080x1920_79
+  - first:
+      213: 7939725386742017565
+    second: star_trails_background_decor_1080x1920_80
+  - first:
+      213: -5300647697675663529
+    second: star_trails_background_decor_1080x1920_81
+  - first:
+      213: -537704983141388300
+    second: star_trails_background_decor_1080x1920_82
+  - first:
+      213: -6754857705471132253
+    second: star_trails_background_decor_1080x1920_83
+  - first:
+      213: -6779126531415494425
+    second: star_trails_background_decor_1080x1920_84
+  - first:
+      213: -338480192719955425
+    second: star_trails_background_decor_1080x1920_85
+  - first:
+      213: -4974033347280231642
+    second: star_trails_background_decor_1080x1920_86
+  - first:
+      213: -9079749862332856286
+    second: star_trails_background_decor_1080x1920_87
+  - first:
+      213: 2020426890007474998
+    second: star_trails_background_decor_1080x1920_88
+  - first:
+      213: -4446726495447830925
+    second: star_trails_background_decor_1080x1920_89
+  - first:
+      213: 6045225254759717450
+    second: star_trails_background_decor_1080x1920_90
+  - first:
+      213: -6448830707479244707
+    second: star_trails_background_decor_1080x1920_91
+  - first:
+      213: 7557925883921555900
+    second: star_trails_background_decor_1080x1920_92
+  - first:
+      213: 7885469650752597366
+    second: star_trails_background_decor_1080x1920_93
+  - first:
+      213: 5085987600659595056
+    second: star_trails_background_decor_1080x1920_94
+  - first:
+      213: -8559950114371461052
+    second: star_trails_background_decor_1080x1920_95
+  - first:
+      213: 6042336463452333543
+    second: star_trails_background_decor_1080x1920_96
+  - first:
+      213: -2415896732515582989
+    second: star_trails_background_decor_1080x1920_97
+  - first:
+      213: 5600992973658513775
+    second: star_trails_background_decor_1080x1920_98
+  - first:
+      213: 8542554004123890528
+    second: star_trails_background_decor_1080x1920_99
+  - first:
+      213: -5190872008808624955
+    second: star_trails_background_decor_1080x1920_100
+  - first:
+      213: -7195649834444206195
+    second: star_trails_background_decor_1080x1920_101
+  - first:
+      213: 3981287571497662418
+    second: star_trails_background_decor_1080x1920_102
+  - first:
+      213: 6411474487665161818
+    second: star_trails_background_decor_1080x1920_103
+  - first:
+      213: -6829484113430047525
+    second: star_trails_background_decor_1080x1920_104
+  - first:
+      213: -2598178266268825187
+    second: star_trails_background_decor_1080x1920_105
+  - first:
+      213: -4062325078305989820
+    second: star_trails_background_decor_1080x1920_106
+  - first:
+      213: 6163510822221019140
+    second: star_trails_background_decor_1080x1920_107
+  - first:
+      213: -3328696342350382434
+    second: star_trails_background_decor_1080x1920_108
+  - first:
+      213: -224470029537247551
+    second: star_trails_background_decor_1080x1920_109
+  - first:
+      213: -6853839101494151199
+    second: star_trails_background_decor_1080x1920_110
+  - first:
+      213: 4553694593984899671
+    second: star_trails_background_decor_1080x1920_111
+  - first:
+      213: -7269744819504943097
+    second: star_trails_background_decor_1080x1920_112
+  - first:
+      213: -871840512938826568
+    second: star_trails_background_decor_1080x1920_113
+  - first:
+      213: -8465642747444063207
+    second: star_trails_background_decor_1080x1920_114
+  - first:
+      213: 3461998738825055957
+    second: star_trails_background_decor_1080x1920_115
+  - first:
+      213: 8065659311811999109
+    second: star_trails_background_decor_1080x1920_116
+  - first:
+      213: 3114273701847577373
+    second: star_trails_background_decor_1080x1920_117
+  - first:
+      213: 96295202719452005
+    second: star_trails_background_decor_1080x1920_118
+  - first:
+      213: 4066961918311324063
+    second: star_trails_background_decor_1080x1920_119
+  - first:
+      213: -6215730602619676880
+    second: star_trails_background_decor_1080x1920_120
+  - first:
+      213: 2878467552246034237
+    second: star_trails_background_decor_1080x1920_121
+  - first:
+      213: -4920493959886545914
+    second: star_trails_background_decor_1080x1920_122
+  - first:
+      213: -329114600464666239
+    second: star_trails_background_decor_1080x1920_123
+  - first:
+      213: -6858414050670453994
+    second: star_trails_background_decor_1080x1920_124
+  - first:
+      213: 3051319060910009485
+    second: star_trails_background_decor_1080x1920_125
+  - first:
+      213: -4780438056817538422
+    second: star_trails_background_decor_1080x1920_126
+  - first:
+      213: 5417140839217055374
+    second: star_trails_background_decor_1080x1920_127
+  - first:
+      213: -5271210039336721146
+    second: star_trails_background_decor_1080x1920_128
+  - first:
+      213: 1986148066887934687
+    second: star_trails_background_decor_1080x1920_129
+  - first:
+      213: -8985627794487320858
+    second: star_trails_background_decor_1080x1920_130
+  - first:
+      213: 2581750169055558727
+    second: star_trails_background_decor_1080x1920_131
+  - first:
+      213: -3455764194274596088
+    second: star_trails_background_decor_1080x1920_132
+  - first:
+      213: 8651393925109824372
+    second: star_trails_background_decor_1080x1920_133
+  - first:
+      213: -7673731616948851651
+    second: star_trails_background_decor_1080x1920_134
+  - first:
+      213: 2904776493616515670
+    second: star_trails_background_decor_1080x1920_135
+  - first:
+      213: 1461778889952289381
+    second: star_trails_background_decor_1080x1920_136
+  - first:
+      213: 2680798543223333465
+    second: star_trails_background_decor_1080x1920_137
+  - first:
+      213: -3583053837995948104
+    second: star_trails_background_decor_1080x1920_138
+  - first:
+      213: 5899207390261074409
+    second: star_trails_background_decor_1080x1920_139
+  - first:
+      213: 8889510272627064951
+    second: star_trails_background_decor_1080x1920_140
+  - first:
+      213: 8231133274140561437
+    second: star_trails_background_decor_1080x1920_141
+  - first:
+      213: -6131643689655059340
+    second: star_trails_background_decor_1080x1920_142
+  - first:
+      213: 9081858399473038396
+    second: star_trails_background_decor_1080x1920_143
+  - first:
+      213: -1943318110294916198
+    second: star_trails_background_decor_1080x1920_144
+  - first:
+      213: -58831978203173651
+    second: star_trails_background_decor_1080x1920_145
+  - first:
+      213: 7703868420689568169
+    second: star_trails_background_decor_1080x1920_146
+  - first:
+      213: 231995861388165856
+    second: star_trails_background_decor_1080x1920_147
+  - first:
+      213: -3784113012146915030
+    second: star_trails_background_decor_1080x1920_148
+  - first:
+      213: -6206649851970334763
+    second: star_trails_background_decor_1080x1920_149
+  - first:
+      213: 144292497870940702
+    second: star_trails_background_decor_1080x1920_150
+  - first:
+      213: -5198327693448963560
+    second: star_trails_background_decor_1080x1920_151
+  - first:
+      213: -3845190859927478261
+    second: star_trails_background_decor_1080x1920_152
+  - first:
+      213: -209283626090136330
+    second: star_trails_background_decor_1080x1920_153
+  - first:
+      213: 8694842418637126944
+    second: star_trails_background_decor_1080x1920_154
+  - first:
+      213: -6946973370397486065
+    second: star_trails_background_decor_1080x1920_155
+  - first:
+      213: -66186784507852261
+    second: star_trails_background_decor_1080x1920_156
+  - first:
+      213: 2694340644822220217
+    second: star_trails_background_decor_1080x1920_157
+  - first:
+      213: 1321766923201382572
+    second: star_trails_background_decor_1080x1920_158
+  - first:
+      213: -8357287106868423449
+    second: star_trails_background_decor_1080x1920_159
+  - first:
+      213: -943156216565524251
+    second: star_trails_background_decor_1080x1920_160
+  - first:
+      213: -7017318464796856473
+    second: star_trails_background_decor_1080x1920_161
+  - first:
+      213: 8608503248568575799
+    second: star_trails_background_decor_1080x1920_162
+  - first:
+      213: -5519689606025151746
+    second: star_trails_background_decor_1080x1920_163
+  - first:
+      213: -7848181478813118338
+    second: star_trails_background_decor_1080x1920_164
+  - first:
+      213: 5818045954486172345
+    second: star_trails_background_decor_1080x1920_165
+  - first:
+      213: -376725306742064805
+    second: star_trails_background_decor_1080x1920_166
+  - first:
+      213: 1288309061829240666
+    second: star_trails_background_decor_1080x1920_167
+  - first:
+      213: 5137854995584050941
+    second: star_trails_background_decor_1080x1920_168
+  - first:
+      213: -3082823128300491497
+    second: star_trails_background_decor_1080x1920_169
+  - first:
+      213: 2597281326294366071
+    second: star_trails_background_decor_1080x1920_170
+  - first:
+      213: 2987185232994991065
+    second: star_trails_background_decor_1080x1920_171
+  - first:
+      213: 8115921156209240429
+    second: star_trails_background_decor_1080x1920_172
+  - first:
+      213: 2836349630557139488
+    second: star_trails_background_decor_1080x1920_173
+  - first:
+      213: 2082099535341614669
+    second: star_trails_background_decor_1080x1920_174
+  - first:
+      213: 8335960601084397434
+    second: star_trails_background_decor_1080x1920_175
+  - first:
+      213: 3101686762861348220
+    second: star_trails_background_decor_1080x1920_176
+  - first:
+      213: -2920401801601120750
+    second: star_trails_background_decor_1080x1920_177
+  - first:
+      213: -1507849473509871637
+    second: star_trails_background_decor_1080x1920_178
+  - first:
+      213: 6318187514564353948
+    second: star_trails_background_decor_1080x1920_179
+  - first:
+      213: 2707809390522946332
+    second: star_trails_background_decor_1080x1920_180
+  - first:
+      213: 3335966080880530851
+    second: star_trails_background_decor_1080x1920_181
+  - first:
+      213: -5621290693241951090
+    second: star_trails_background_decor_1080x1920_182
+  - first:
+      213: 8305937258872147805
+    second: star_trails_background_decor_1080x1920_183
+  - first:
+      213: 6187315334295233540
+    second: star_trails_background_decor_1080x1920_184
+  - first:
+      213: -1457146752558415548
+    second: star_trails_background_decor_1080x1920_185
+  - first:
+      213: 3464951539392780149
+    second: star_trails_background_decor_1080x1920_186
+  - first:
+      213: -2311867914011076842
+    second: star_trails_background_decor_1080x1920_187
+  - first:
+      213: 6733971773881102212
+    second: star_trails_background_decor_1080x1920_188
+  - first:
+      213: -8850277584446952828
+    second: star_trails_background_decor_1080x1920_189
+  - first:
+      213: -5351811395069395520
+    second: star_trails_background_decor_1080x1920_190
+  - first:
+      213: -9059356343646419152
+    second: star_trails_background_decor_1080x1920_191
+  - first:
+      213: 2704991604147975856
+    second: star_trails_background_decor_1080x1920_192
+  - first:
+      213: -8753992427266498783
+    second: star_trails_background_decor_1080x1920_193
+  - first:
+      213: 5691410461589358528
+    second: star_trails_background_decor_1080x1920_194
+  - first:
+      213: -6272124191485244321
+    second: star_trails_background_decor_1080x1920_195
+  - first:
+      213: 4838940858476498896
+    second: star_trails_background_decor_1080x1920_196
+  - first:
+      213: -2381002019633652535
+    second: star_trails_background_decor_1080x1920_197
+  - first:
+      213: 8092001166139973650
+    second: star_trails_background_decor_1080x1920_198
+  - first:
+      213: 1779187134884805777
+    second: star_trails_background_decor_1080x1920_199
+  - first:
+      213: 450817316175864771
+    second: star_trails_background_decor_1080x1920_200
+  - first:
+      213: 8735507838142552721
+    second: star_trails_background_decor_1080x1920_201
+  - first:
+      213: -1205278369078362934
+    second: star_trails_background_decor_1080x1920_202
+  - first:
+      213: 6160648305765387151
+    second: star_trails_background_decor_1080x1920_203
+  - first:
+      213: 8496110628169168363
+    second: star_trails_background_decor_1080x1920_204
+  - first:
+      213: 928143725289030796
+    second: star_trails_background_decor_1080x1920_205
+  - first:
+      213: -7211642593975633298
+    second: star_trails_background_decor_1080x1920_206
+  - first:
+      213: -4964376083572836056
+    second: star_trails_background_decor_1080x1920_207
+  - first:
+      213: -680629463533323371
+    second: star_trails_background_decor_1080x1920_208
+  - first:
+      213: 4502716992906163840
+    second: star_trails_background_decor_1080x1920_209
+  - first:
+      213: -1108046557811598802
+    second: star_trails_background_decor_1080x1920_210
+  - first:
+      213: 7181170866347044046
+    second: star_trails_background_decor_1080x1920_211
+  - first:
+      213: -8832867950952336022
+    second: star_trails_background_decor_1080x1920_212
+  - first:
+      213: -2769297990426477414
+    second: star_trails_background_decor_1080x1920_213
+  - first:
+      213: 3270374499259994285
+    second: star_trails_background_decor_1080x1920_214
+  - first:
+      213: 8482246607803174492
+    second: star_trails_background_decor_1080x1920_215
+  - first:
+      213: -1641489981897477236
+    second: star_trails_background_decor_1080x1920_216
+  - first:
+      213: -3704432961815883950
+    second: star_trails_background_decor_1080x1920_217
+  - first:
+      213: 2447366242919679827
+    second: star_trails_background_decor_1080x1920_218
+  - first:
+      213: 6601803087817319787
+    second: star_trails_background_decor_1080x1920_219
+  - first:
+      213: 3489563264797279669
+    second: star_trails_background_decor_1080x1920_220
+  - first:
+      213: 5586199078052172074
+    second: star_trails_background_decor_1080x1920_221
+  - first:
+      213: 2344457531844849425
+    second: star_trails_background_decor_1080x1920_222
+  - first:
+      213: -2709303272802233356
+    second: star_trails_background_decor_1080x1920_223
+  - first:
+      213: 5160773494905341053
+    second: star_trails_background_decor_1080x1920_224
+  - first:
+      213: 6231335881300912140
+    second: star_trails_background_decor_1080x1920_225
+  - first:
+      213: -4379092120330123227
+    second: star_trails_background_decor_1080x1920_226
+  - first:
+      213: 2902717041824343831
+    second: star_trails_background_decor_1080x1920_227
+  - first:
+      213: 515282135879169383
+    second: star_trails_background_decor_1080x1920_228
+  - first:
+      213: 759237126126343659
+    second: star_trails_background_decor_1080x1920_229
+  - first:
+      213: -4480102897833133385
+    second: star_trails_background_decor_1080x1920_230
+  - first:
+      213: -3259385503890404038
+    second: star_trails_background_decor_1080x1920_231
+  - first:
+      213: -3239246180759900301
+    second: star_trails_background_decor_1080x1920_232
+  - first:
+      213: 8231674767661969652
+    second: star_trails_background_decor_1080x1920_233
+  - first:
+      213: 5120223780043912189
+    second: star_trails_background_decor_1080x1920_234
+  - first:
+      213: -1463040475063517244
+    second: star_trails_background_decor_1080x1920_235
+  - first:
+      213: 3984118573190766932
+    second: star_trails_background_decor_1080x1920_236
+  - first:
+      213: 4472549747836207519
+    second: star_trails_background_decor_1080x1920_237
+  - first:
+      213: 3683372356275192242
+    second: star_trails_background_decor_1080x1920_238
+  - first:
+      213: -8683583956874273670
+    second: star_trails_background_decor_1080x1920_239
+  - first:
+      213: -2749583321628306411
+    second: star_trails_background_decor_1080x1920_240
+  - first:
+      213: -7727964040352959013
+    second: star_trails_background_decor_1080x1920_241
+  - first:
+      213: 6884727080170425315
+    second: star_trails_background_decor_1080x1920_242
+  - first:
+      213: 7013809700520977332
+    second: star_trails_background_decor_1080x1920_243
+  - first:
+      213: 2132988852797581300
+    second: star_trails_background_decor_1080x1920_244
+  - first:
+      213: -6151070643824077595
+    second: star_trails_background_decor_1080x1920_245
+  - first:
+      213: 1117079372767765666
+    second: star_trails_background_decor_1080x1920_246
+  - first:
+      213: -3455137842566641853
+    second: star_trails_background_decor_1080x1920_247
+  - first:
+      213: -7644472386257395192
+    second: star_trails_background_decor_1080x1920_248
+  - first:
+      213: 599191072801618109
+    second: star_trails_background_decor_1080x1920_249
+  - first:
+      213: -7448790215106994424
+    second: star_trails_background_decor_1080x1920_250
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2439
+        width: 119
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592cdd8117f7fa5d0800000000000000
+      internalID: -3049078298981317995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1781
+        width: 575
+        height: 757
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3dfe84427eac0090800000000000000
+      internalID: -8066881026727674562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_2
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 2527
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1240a0f40e8bb800800000000000000
+      internalID: 629252724816364063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_3
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 2459
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fde51c8d14efc30800000000000000
+      internalID: 4395022685573144389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_4
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 2431
+        width: 75
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1dad771053789210800000000000000
+      internalID: 1339947676971412767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_5
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 2335
+        width: 163
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd336a588e0fcde20800000000000000
+      internalID: 3376838702086370267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_6
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 2411
+        width: 77
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237898803cd1517a0800000000000000
+      internalID: -6407182171365603534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_7
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2512
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6f0d733cb645380800000000000000
+      internalID: -8983436870498060601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_8
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2495
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d49302d613abdc00800000000000000
+      internalID: 926513466762826969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_9
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 2215
+        width: 201
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10588cc2da50885b0800000000000000
+      internalID: -5366032714673126143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_10
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2463
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071d79f5840e567b0800000000000000
+      internalID: -5231528790674910864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_11
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2472
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572a13be5a7494a10800000000000000
+      internalID: 1894123896227078773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_12
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2463
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce808e812c3b35970800000000000000
+      internalID: 8742528947879151852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_13
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2463
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ebba2cb8f073970800000000000000
+      internalID: 8734467095249272441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_14
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 2447
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a0d12cdfe403f80800000000000000
+      internalID: -8128910475613369723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2307
+        width: 65
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb1fa471abac4640800000000000000
+      internalID: 5065612390820682721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_16
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 2287
+        width: 171
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e3f7fa027ce05f0800000000000000
+      internalID: -788473941546025454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_17
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2279
+        width: 105
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d959c100553c230800000000000000
+      internalID: 3657860781322902936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_18
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2249
+        width: 173
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53490ea40c3621c0800000000000000
+      internalID: -4528866384477076641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_19
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 2405
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb00d5f3f6e03980800000000000000
+      internalID: -8561088956155819086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_20
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 2383
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e093e2b519ec84410800000000000000
+      internalID: 1461645202777061646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_21
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 2404
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5261a9a8108641810800000000000000
+      internalID: 1735126112274093605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_22
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 2367
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7645f9909f678d530800000000000000
+      internalID: 3879981890960053351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_23
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 2375
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3196660cc847acf80800000000000000
+      internalID: -8085522033118123757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2094
+        width: 273
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc66551b482fd580800000000000000
+      internalID: -8800270843913016109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_25
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 2255
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487f7405129912420800000000000000
+      internalID: 2603530427956721540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_26
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 607
+        width: 761
+        height: 1667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e232115f34c280740800000000000000
+      internalID: 5118389646892540718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_27
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 2271
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b778f68f6890a1570800000000000000
+      internalID: 8438067327130371963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_28
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 2263
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20364d73de82dc900800000000000000
+      internalID: 706265715876061954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_29
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 2307
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e4cc1ff00c25760800000000000000
+      internalID: 7445224308710592095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_30
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 2329
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e20027fa0a2e770800000000000000
+      internalID: 8638643710642368035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_31
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 2273
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da1f8a8391e302e0800000000000000
+      internalID: -2160635372406629675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_32
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1973
+        width: 163
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12dc21106191ded0800000000000000
+      internalID: -2390970085365984737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_33
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 2307
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8353e218ba29a21e0800000000000000
+      internalID: -2221802200849566408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_34
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 2257
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a9cd7e131334c90800000000000000
+      internalID: -7186846489940026740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_35
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 2207
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40efd9e2fea9fe00800000000000000
+      internalID: 1079085944061026381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_36
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1991
+        width: 25
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407c2dbd409ec41b0800000000000000
+      internalID: -5670901623689132284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2001
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170a79d2723218d00800000000000000
+      internalID: 973097645664346225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_38
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1945
+        width: 105
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cb1129b48cfe9e0800000000000000
+      internalID: -1589831916539757491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_39
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2017
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256af26150e086fd0800000000000000
+      internalID: -2348611790663866798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_40
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1983
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97eb96eac914c83b0800000000000000
+      internalID: -5508956102984089991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_41
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 2065
+        width: 69
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7987640ec2ad07b40800000000000000
+      internalID: 5436084636512319639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_42
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1969
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53f14c1a819354b0800000000000000
+      internalID: -5452854701449940134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_43
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1801
+        width: 95
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5daca4a6f9cc960800000000000000
+      internalID: 7623643548101563879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_44
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1937
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58bba1c1cfee1de0800000000000000
+      internalID: -1360386421962327974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_45
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1909
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea0153404fe29f00800000000000000
+      internalID: 1122222316455004905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_46
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1889
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b94cf6b92546bc70800000000000000
+      internalID: 8986446151930366393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_47
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1903
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42658cb3e58220d70800000000000000
+      internalID: 9007806589889435172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_48
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1913
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998156f4f04b41360800000000000000
+      internalID: 7139529287138613401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_49
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1906
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfb4b9e756e25ec0800000000000000
+      internalID: -3579545488548642884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_50
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1879
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a320f9f5c0b458740800000000000000
+      internalID: 5153607865111347770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_51
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1851
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495ed52bf6874c780800000000000000
+      internalID: -8663667362024790636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_52
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1839
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3ed0024adfb9550800000000000000
+      internalID: 6168802995968271267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_53
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1735
+        width: 113
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03350607211d73900800000000000000
+      internalID: 664229347185414960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_54
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1823
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e13e175040a6caa0800000000000000
+      internalID: -6141044843673144857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_55
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1591
+        width: 53
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa72cb6d9634d72c0800000000000000
+      internalID: -4432312336409417809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_56
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 999
+        width: 341
+        height: 783
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e03fc1691fbdbb80800000000000000
+      internalID: -8377329616103198488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_57
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1271
+        width: 309
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74999cd3724adfd00800000000000000
+      internalID: 1008142380048161095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_58
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1758
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648090368883a81b0800000000000000
+      internalID: -5653644223781992378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_59
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1746
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfc56920c698c5f0800000000000000
+      internalID: -736172787002650698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_60
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1731
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc60c31ec6c9235d0800000000000000
+      internalID: -3084230803346159923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_61
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1735
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df4011e5d141c020800000000000000
+      internalID: 2360240066578632658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_62
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1571
+        width: 177
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8ef717d943194c0800000000000000
+      internalID: -4282583919833913142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_63
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1719
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536045be6c8763330800000000000000
+      internalID: 3690269740423710261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_64
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1711
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe659693336586980800000000000000
+      internalID: -8545485514928990481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_65
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1631
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed31b9d22ee5d2ef0800000000000000
+      internalID: -131344488603118626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_66
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1557
+        width: 85
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c3d29f6eb3677d0800000000000000
+      internalID: -2921081445094179712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_67
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1695
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9dbee07d06eb5e0800000000000000
+      internalID: -1891968316664456783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_68
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1679
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ea073ea032114d0800000000000000
+      internalID: -3165710533392290189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_69
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1697
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e417ba6ed97ba70800000000000000
+      internalID: 8842710007409626758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_70
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1653
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9b1e86d65fe3970800000000000000
+      internalID: 8736690177405204987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_71
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1677
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68241087bf088def0800000000000000
+      internalID: -83174775567859066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_72
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1679
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2502c4b8a0b91d820800000000000000
+      internalID: 2941302501238644818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_73
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1649
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d72136245d124530800000000000000
+      internalID: 3837662079728297937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_74
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1649
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb719f58ce772f220800000000000000
+      internalID: 2518206999397210046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_75
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1643
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8425fd5d7001402b0800000000000000
+      internalID: -5619348809212538296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1631
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a76c537d77b2a90800000000000000
+      internalID: -7337639401666217447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_77
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1615
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecc257a0fd545ce0800000000000000
+      internalID: -1417404694534107928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_78
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1605
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12aa8582c90abdf0800000000000000
+      internalID: -163807705376841187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_79
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1591
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0206116eb2cc6c70800000000000000
+      internalID: 8965755081116221967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_80
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1609
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ea8ea3c229f2e60800000000000000
+      internalID: 7939725386742017565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_81
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1605
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757cc84c0015076b0800000000000000
+      internalID: -5300647697675663529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_82
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1607
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff66edaa20b988f0800000000000000
+      internalID: -537704983141388300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_83
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1587
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad3515a4bce142a0800000000000000
+      internalID: -6754857705471132253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_84
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1587
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0bd874654bbe1a0800000000000000
+      internalID: -6779126531415494425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_85
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1569
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1adb6dde0a7d4bf0800000000000000
+      internalID: -338480192719955425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_86
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1439
+        width: 125
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6232a62360fa8fab0800000000000000
+      internalID: -4974033347280231642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_87
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1537
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2288f365b9f3ef180800000000000000
+      internalID: -9079749862332856286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_88
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1505
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633fa814d8ff90c10800000000000000
+      internalID: 2020426890007474998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_89
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1507
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ea389efcd0a42c0800000000000000
+      internalID: -4446726495447830925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_90
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1469
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a5c291754f4e350800000000000000
+      internalID: 6045225254759717450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_91
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1471
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50911093a62186a0800000000000000
+      internalID: -6448830707479244707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_92
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1317
+        width: 187
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1efdd3c8523e860800000000000000
+      internalID: 7557925883921555900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_93
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1439
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d6b3c4ed0de6d60800000000000000
+      internalID: 7885469650752597366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_94
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1447
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f3b5da6ce059640800000000000000
+      internalID: 5085987600659595056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_95
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1439
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44023d939b2f43980800000000000000
+      internalID: -8559950114371461052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_96
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1415
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e56775fff0bad350800000000000000
+      internalID: 6042336463452333543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_97
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1410
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbb164c8b2097ed0800000000000000
+      internalID: -2415896732515582989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_98
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1415
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61ef582f69babd40800000000000000
+      internalID: 5600992973658513775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_99
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1375
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063356a3b9f3d8670800000000000000
+      internalID: 8542554004123890528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_100
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1415
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc8170196156f7b0800000000000000
+      internalID: -5190872008808624955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_101
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1421
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fcad9899ae32c90800000000000000
+      internalID: -7195649834444206195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_102
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1361
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7bbc7d3ff504730800000000000000
+      internalID: 3981287571497662418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_103
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1382
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56f2cbb3122af850800000000000000
+      internalID: 6411474487665161818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_104
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1357
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd414db026cc831a0800000000000000
+      internalID: -6829484113430047525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_105
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1393
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9908efe1aa61fbd0800000000000000
+      internalID: -2598178266268825187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_106
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1345
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b19694dd8bf97c0800000000000000
+      internalID: -4062325078305989820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_107
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1342
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40872c7ef60398550800000000000000
+      internalID: 6163510822221019140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_108
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1343
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a301510581ec1d0800000000000000
+      internalID: -3328696342350382434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_109
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1343
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cef5ba82b582ecf0800000000000000
+      internalID: -224470029537247551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_110
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1341
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e732cf76a542e0a0800000000000000
+      internalID: -6853839101494151199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_111
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1353
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a26125b19f13f30800000000000000
+      internalID: 4553694593984899671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_112
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1329
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700fba97a9dac1b90800000000000000
+      internalID: -7269744819504943097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_113
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1343
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4ac753ca996e3f0800000000000000
+      internalID: -871840512938826568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_114
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1321
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9141c3b26cef38a80800000000000000
+      internalID: -8465642747444063207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_115
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1185
+        width: 309
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de8480b28d7b0030800000000000000
+      internalID: 3461998738825055957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_116
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1327
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58530ef096afeef60800000000000000
+      internalID: 8065659311811999109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_117
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1316
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1337f38e6f183b20800000000000000
+      internalID: 3114273701847577373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_118
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1310
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bcaa70afb165100800000000000000
+      internalID: 96295202719452005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_119
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1301
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99dcf72150c07830800000000000000
+      internalID: 4066961918311324063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_120
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1297
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037545303f94db9a0800000000000000
+      internalID: -6215730602619676880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_121
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1293
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fec1decfe52f720800000000000000
+      internalID: 2878467552246034237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_122
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1297
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cd18930d4e6bbb0800000000000000
+      internalID: -4920493959886545914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_123
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1292
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181b8ecb300ce6bf0800000000000000
+      internalID: -329114600464666239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_124
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1131
+        width: 199
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b5d3322c402d0a0800000000000000
+      internalID: -6858414050670453994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_125
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1297
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c6be1f486785a20800000000000000
+      internalID: 3051319060910009485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_126
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1287
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ac1a84ae878adb0800000000000000
+      internalID: -4780438056817538422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_127
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1281
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e864bcb54ec8d2b40800000000000000
+      internalID: 5417140839217055374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_128
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1277
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605acd4b566e8d6b0800000000000000
+      internalID: -5271210039336721146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_129
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1269
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd22f2ec427309b10800000000000000
+      internalID: 1986148066887934687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_130
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1263
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eed4b9f023ac4380800000000000000
+      internalID: -8985627794487320858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_131
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1271
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c7c5d991834d320800000000000000
+      internalID: 2581750169055558727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_132
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1245
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bafb456c8aa00d0800000000000000
+      internalID: -3455764194274596088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_133
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1261
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bb42610fcef0870800000000000000
+      internalID: 8651393925109824372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_134
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1243
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c641660cd618590800000000000000
+      internalID: -7673731616948851651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_135
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1249
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65acaeda4d6df4820800000000000000
+      internalID: 2904776493616515670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_136
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1207
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56265c3d728494410800000000000000
+      internalID: 1461778889952289381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_137
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1197
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9522633521c143520800000000000000
+      internalID: 2680798543223333465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_138
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1175
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7c627a48f664ec0800000000000000
+      internalID: -3583053837995948104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_139
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1187
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9ded8bdd13ed150800000000000000
+      internalID: 5899207390261074409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_140
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1169
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7704f1b8e72ed5b70800000000000000
+      internalID: 8889510272627064951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_141
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1091
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10db083a1cda3270800000000000000
+      internalID: 8231133274140561437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_142
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1143
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c38d41d8608eaa0800000000000000
+      internalID: -6131643689655059340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_143
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 343
+        width: 551
+        height: 827
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34fcf8b81e390e70800000000000000
+      internalID: 9081858399473038396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_144
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1153
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93c94e8972f705e0800000000000000
+      internalID: -1943318110294916198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_145
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1159
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec24c5a0acfe2ff0800000000000000
+      internalID: -58831978203173651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_146
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1135
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a12d830383a9ea60800000000000000
+      internalID: 7703868420689568169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_147
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1103
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2076bb107383300800000000000000
+      internalID: 231995861388165856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_148
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 967
+        width: 115
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29bc09b3412c7bc0800000000000000
+      internalID: -3784113012146915030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_149
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1071
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfc31808dc8dd9a0800000000000000
+      internalID: -6206649851970334763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_150
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1071
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ae9572341a00200800000000000000
+      internalID: 144292497870940702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_151
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1061
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a16e53184dbd7b0800000000000000
+      internalID: -5198327693448963560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_152
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 879
+        width: 189
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00a17c194323aac0800000000000000
+      internalID: -3845190859927478261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_153
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1055
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc7791a6a9781df0800000000000000
+      internalID: -209283626090136330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_154
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1054
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d3ddccc194aa870800000000000000
+      internalID: 8694842418637126944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_155
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1015
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f041c59b684679f90800000000000000
+      internalID: -6946973370397486065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_156
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 945
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a859c587bd41ff0800000000000000
+      internalID: -66186784507852261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_157
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 953
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd768e8a88346520800000000000000
+      internalID: 2694340644822220217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_158
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 799
+        width: 193
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8874d730cd75210800000000000000
+      internalID: 1321766923201382572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_159
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 767
+        width: 135
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4d725b7a3f40c80800000000000000
+      internalID: -8357287106868423449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_160
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 877
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e819e70b6c39e2f0800000000000000
+      internalID: -943156216565524251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_161
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 863
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f6efd190a7d9e90800000000000000
+      internalID: -7017318464796856473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_162
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 851
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737e9b2481c877770800000000000000
+      internalID: 8608503248568575799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_163
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 836
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa74724c8f1663b0800000000000000
+      internalID: -5519689606025151746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_164
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 847
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e705b86c688a51390800000000000000
+      internalID: -7848181478813118338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_165
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 830
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bafb0468f9ddb050800000000000000
+      internalID: 5818045954486172345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_166
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 823
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b593db9545a95caf0800000000000000
+      internalID: -376725306742064805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_167
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 790
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57af37144ef0e110800000000000000
+      internalID: 1288309061829240666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_168
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 809
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6e04f95e35d4740800000000000000
+      internalID: 5137854995584050941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_169
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 799
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d6a44c2bc9735d0800000000000000
+      internalID: -3082823128300491497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_170
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 783
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777f783fa956b0420800000000000000
+      internalID: 2597281326294366071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_171
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 793
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db75f2842d947920800000000000000
+      internalID: 2987185232994991065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_172
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 661
+        width: 143
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69ede4aa4b81a070800000000000000
+      internalID: 8115921156209240429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_173
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 797
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0223b2c16fcbc5720800000000000000
+      internalID: 2836349630557139488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_174
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 247
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46fa07fe7a15ec10800000000000000
+      internalID: 2082099535341614669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_175
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 735
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77894930084fa370800000000000000
+      internalID: 8335960601084397434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_176
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 0
+        width: 668
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75c1e86da76b0b20800000000000000
+      internalID: 3101686762861348220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_177
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 681
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216872ec806a877d0800000000000000
+      internalID: -2920401801601120750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_178
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 703
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef2fac84ea031be0800000000000000
+      internalID: -1507849473509871637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_179
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 687
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f9aedb116bea750800000000000000
+      internalID: 6318187514564353948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_180
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 653
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1356994b42149520800000000000000
+      internalID: 2707809390522946332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_181
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 649
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5d2a1d97bbb4e20800000000000000
+      internalID: 3335966080880530851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_182
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 669
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8caa1ab5e92df1b0800000000000000
+      internalID: -5621290693241951090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_183
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 659
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f81c12eed944370800000000000000
+      internalID: 8305937258872147805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_184
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 657
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404aef5c382cdd550800000000000000
+      internalID: 6187315334295233540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_185
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 647
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4414424bfbc27cbe0800000000000000
+      internalID: -1457146752558415548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_186
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 643
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5771375211bf51030800000000000000
+      internalID: 3464951539392780149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_187
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 591
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6171fb981689aefd0800000000000000
+      internalID: -2311867914011076842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_188
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 581
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fa0b576afd37d50800000000000000
+      internalID: 6733971773881102212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_189
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 585
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48aef6f7d6f7d2580800000000000000
+      internalID: -8850277584446952828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_190
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 591
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd300c24eb8ab5b0800000000000000
+      internalID: -5351811395069395520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_191
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 589
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037064b6763b64280800000000000000
+      internalID: -9059356343646419152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_192
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 583
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b677a5488f0a8520800000000000000
+      internalID: 2704991604147975856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_193
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 585
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f125e9442938680800000000000000
+      internalID: -8753992427266498783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_194
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 591
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7c9f119a3fbfe40800000000000000
+      internalID: 5691410461589358528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_195
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 590
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c436b6740f4f8a0800000000000000
+      internalID: -6272124191485244321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_196
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 583
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df8d9ea21f572340800000000000000
+      internalID: 4838940858476498896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_197
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 543
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc9f3a374bf4fed0800000000000000
+      internalID: -2381002019633652535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_198
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 575
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210e1d5ff209c4070800000000000000
+      internalID: 8092001166139973650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_199
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 577
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cf0cbc541f0b810800000000000000
+      internalID: 1779187134884805777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_200
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 577
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3e145e5ff914600800000000000000
+      internalID: 450817316175864771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_201
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 577
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a90299812ca3970800000000000000
+      internalID: 8735507838142552721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_202
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 575
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc3f9b85bdf54fe0800000000000000
+      internalID: -1205278369078362934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_203
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 559
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b024b5ef40f7550800000000000000
+      internalID: 6160648305765387151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_204
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 541
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5b17c1a9f38e570800000000000000
+      internalID: 8496110628169168363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_205
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 559
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c844c56fccd61ec00800000000000000
+      internalID: 928143725289030796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_206
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 535
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a710b05491beb90800000000000000
+      internalID: -7211642593975633298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_207
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 541
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829323f114efa1bb0800000000000000
+      internalID: -4964376083572836056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_208
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 543
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b7e6aeb1bed86f0800000000000000
+      internalID: -680629463533323371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_209
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 531
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0867946af3ddc7e30800000000000000
+      internalID: 4502716992906163840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_210
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 543
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a9b0fb68d6f90f0800000000000000
+      internalID: -1108046557811598802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_211
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 519
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecceffffad4a8a360800000000000000
+      internalID: 7181170866347044046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_212
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 23
+        width: 291
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65bd8ba5695b6580800000000000000
+      internalID: -8832867950952336022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_213
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 519
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c3d6b662a7199d0800000000000000
+      internalID: -2769297990426477414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_214
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 491
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da053e6a744b26d20800000000000000
+      internalID: 3270374499259994285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_215
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 495
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ece53595ef6b570800000000000000
+      internalID: 8482246607803174492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_216
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 495
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8373a6fe814839e0800000000000000
+      internalID: -1641489981897477236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_217
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 117
+        width: 237
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f47b029d5379cc0800000000000000
+      internalID: -3704432961815883950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_218
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 429
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357828891aac6f120800000000000000
+      internalID: 2447366242919679827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_219
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 420
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65ad663ee05e9b50800000000000000
+      internalID: 6601803087817319787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_220
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 403
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b58e730d4b6d6030800000000000000
+      internalID: 3489563264797279669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_221
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 365
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a211aebe67a268d40800000000000000
+      internalID: 5586199078052172074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_222
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 382
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fe99824bf298020800000000000000
+      internalID: 2344457531844849425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_223
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 353
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3d1d3270f966ad0800000000000000
+      internalID: -2709303272802233356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_224
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 179
+        width: 161
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7485129620ce9740800000000000000
+      internalID: 5160773494905341053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_225
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 143
+        width: 169
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08261118f62a7650800000000000000
+      internalID: 6231335881300912140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_226
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 271
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528c2010be65a33c0800000000000000
+      internalID: -4379092120330123227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_227
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 277
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717a96135c5884820800000000000000
+      internalID: 2902717041824343831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_228
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 279
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765be2c5f56a62700800000000000000
+      internalID: 515282135879169383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_229
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 275
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be59c03c42a598a00800000000000000
+      internalID: 759237126126343659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_230
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 231
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba3579a62a73d1c0800000000000000
+      internalID: -4480102897833133385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_231
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 223
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d0e86372654c2d0800000000000000
+      internalID: -3259385503890404038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_232
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 103
+        width: 177
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fe3c7c2c2eb03d0800000000000000
+      internalID: -3239246180759900301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_233
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 225
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0b9018698cc3270800000000000000
+      internalID: 8231674767661969652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_234
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 225
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3760c5660be0740800000000000000
+      internalID: 5120223780043912189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_235
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 111
+        width: 161
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cff1df707c32bbe0800000000000000
+      internalID: -1463040475063517244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_236
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 47
+        width: 171
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451621acbbe6a4730800000000000000
+      internalID: 3984118573190766932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_237
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 205
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f914a009c40b11e30800000000000000
+      internalID: 4472549747836207519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_238
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 215
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1c64784a7fd1330800000000000000
+      internalID: 3683372356275192242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_239
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 217
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c5a391666bd7780800000000000000
+      internalID: -8683583956874273670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_240
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 199
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5149102798487d9d0800000000000000
+      internalID: -2749583321628306411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_241
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 161
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5f4c956a1c0c490800000000000000
+      internalID: -7727964040352959013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_242
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 151
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb02157dc67b8f50800000000000000
+      internalID: 6884727080170425315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_243
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 143
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3edb903ce065160800000000000000
+      internalID: 7013809700520977332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_244
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 143
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f72ed08f06e99d10800000000000000
+      internalID: 2132988852797581300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_245
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 113
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e45886d6d103aaa0800000000000000
+      internalID: -6151070643824077595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_246
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 127
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a42dbf55c9a08f00800000000000000
+      internalID: 1117079372767765666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_247
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 95
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3474ec33072ec00d0800000000000000
+      internalID: -3455137842566641853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_248
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80268d9edd069e590800000000000000
+      internalID: -7644472386257395192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_249
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 23
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8fce62b11c05800800000000000000
+      internalID: 599191072801618109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star_trails_background_decor_1080x1920_250
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 28
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f5426c3c490a890800000000000000
+      internalID: -7448790215106994424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      star_trails_background_decor_1080x1920_0: -3049078298981317995
+      star_trails_background_decor_1080x1920_1: -8066881026727674562
+      star_trails_background_decor_1080x1920_10: -5231528790674910864
+      star_trails_background_decor_1080x1920_100: -5190872008808624955
+      star_trails_background_decor_1080x1920_101: -7195649834444206195
+      star_trails_background_decor_1080x1920_102: 3981287571497662418
+      star_trails_background_decor_1080x1920_103: 6411474487665161818
+      star_trails_background_decor_1080x1920_104: -6829484113430047525
+      star_trails_background_decor_1080x1920_105: -2598178266268825187
+      star_trails_background_decor_1080x1920_106: -4062325078305989820
+      star_trails_background_decor_1080x1920_107: 6163510822221019140
+      star_trails_background_decor_1080x1920_108: -3328696342350382434
+      star_trails_background_decor_1080x1920_109: -224470029537247551
+      star_trails_background_decor_1080x1920_11: 1894123896227078773
+      star_trails_background_decor_1080x1920_110: -6853839101494151199
+      star_trails_background_decor_1080x1920_111: 4553694593984899671
+      star_trails_background_decor_1080x1920_112: -7269744819504943097
+      star_trails_background_decor_1080x1920_113: -871840512938826568
+      star_trails_background_decor_1080x1920_114: -8465642747444063207
+      star_trails_background_decor_1080x1920_115: 3461998738825055957
+      star_trails_background_decor_1080x1920_116: 8065659311811999109
+      star_trails_background_decor_1080x1920_117: 3114273701847577373
+      star_trails_background_decor_1080x1920_118: 96295202719452005
+      star_trails_background_decor_1080x1920_119: 4066961918311324063
+      star_trails_background_decor_1080x1920_12: 8742528947879151852
+      star_trails_background_decor_1080x1920_120: -6215730602619676880
+      star_trails_background_decor_1080x1920_121: 2878467552246034237
+      star_trails_background_decor_1080x1920_122: -4920493959886545914
+      star_trails_background_decor_1080x1920_123: -329114600464666239
+      star_trails_background_decor_1080x1920_124: -6858414050670453994
+      star_trails_background_decor_1080x1920_125: 3051319060910009485
+      star_trails_background_decor_1080x1920_126: -4780438056817538422
+      star_trails_background_decor_1080x1920_127: 5417140839217055374
+      star_trails_background_decor_1080x1920_128: -5271210039336721146
+      star_trails_background_decor_1080x1920_129: 1986148066887934687
+      star_trails_background_decor_1080x1920_13: 8734467095249272441
+      star_trails_background_decor_1080x1920_130: -8985627794487320858
+      star_trails_background_decor_1080x1920_131: 2581750169055558727
+      star_trails_background_decor_1080x1920_132: -3455764194274596088
+      star_trails_background_decor_1080x1920_133: 8651393925109824372
+      star_trails_background_decor_1080x1920_134: -7673731616948851651
+      star_trails_background_decor_1080x1920_135: 2904776493616515670
+      star_trails_background_decor_1080x1920_136: 1461778889952289381
+      star_trails_background_decor_1080x1920_137: 2680798543223333465
+      star_trails_background_decor_1080x1920_138: -3583053837995948104
+      star_trails_background_decor_1080x1920_139: 5899207390261074409
+      star_trails_background_decor_1080x1920_14: -8128910475613369723
+      star_trails_background_decor_1080x1920_140: 8889510272627064951
+      star_trails_background_decor_1080x1920_141: 8231133274140561437
+      star_trails_background_decor_1080x1920_142: -6131643689655059340
+      star_trails_background_decor_1080x1920_143: 9081858399473038396
+      star_trails_background_decor_1080x1920_144: -1943318110294916198
+      star_trails_background_decor_1080x1920_145: -58831978203173651
+      star_trails_background_decor_1080x1920_146: 7703868420689568169
+      star_trails_background_decor_1080x1920_147: 231995861388165856
+      star_trails_background_decor_1080x1920_148: -3784113012146915030
+      star_trails_background_decor_1080x1920_149: -6206649851970334763
+      star_trails_background_decor_1080x1920_15: 5065612390820682721
+      star_trails_background_decor_1080x1920_150: 144292497870940702
+      star_trails_background_decor_1080x1920_151: -5198327693448963560
+      star_trails_background_decor_1080x1920_152: -3845190859927478261
+      star_trails_background_decor_1080x1920_153: -209283626090136330
+      star_trails_background_decor_1080x1920_154: 8694842418637126944
+      star_trails_background_decor_1080x1920_155: -6946973370397486065
+      star_trails_background_decor_1080x1920_156: -66186784507852261
+      star_trails_background_decor_1080x1920_157: 2694340644822220217
+      star_trails_background_decor_1080x1920_158: 1321766923201382572
+      star_trails_background_decor_1080x1920_159: -8357287106868423449
+      star_trails_background_decor_1080x1920_16: -788473941546025454
+      star_trails_background_decor_1080x1920_160: -943156216565524251
+      star_trails_background_decor_1080x1920_161: -7017318464796856473
+      star_trails_background_decor_1080x1920_162: 8608503248568575799
+      star_trails_background_decor_1080x1920_163: -5519689606025151746
+      star_trails_background_decor_1080x1920_164: -7848181478813118338
+      star_trails_background_decor_1080x1920_165: 5818045954486172345
+      star_trails_background_decor_1080x1920_166: -376725306742064805
+      star_trails_background_decor_1080x1920_167: 1288309061829240666
+      star_trails_background_decor_1080x1920_168: 5137854995584050941
+      star_trails_background_decor_1080x1920_169: -3082823128300491497
+      star_trails_background_decor_1080x1920_17: 3657860781322902936
+      star_trails_background_decor_1080x1920_170: 2597281326294366071
+      star_trails_background_decor_1080x1920_171: 2987185232994991065
+      star_trails_background_decor_1080x1920_172: 8115921156209240429
+      star_trails_background_decor_1080x1920_173: 2836349630557139488
+      star_trails_background_decor_1080x1920_174: 2082099535341614669
+      star_trails_background_decor_1080x1920_175: 8335960601084397434
+      star_trails_background_decor_1080x1920_176: 3101686762861348220
+      star_trails_background_decor_1080x1920_177: -2920401801601120750
+      star_trails_background_decor_1080x1920_178: -1507849473509871637
+      star_trails_background_decor_1080x1920_179: 6318187514564353948
+      star_trails_background_decor_1080x1920_18: -4528866384477076641
+      star_trails_background_decor_1080x1920_180: 2707809390522946332
+      star_trails_background_decor_1080x1920_181: 3335966080880530851
+      star_trails_background_decor_1080x1920_182: -5621290693241951090
+      star_trails_background_decor_1080x1920_183: 8305937258872147805
+      star_trails_background_decor_1080x1920_184: 6187315334295233540
+      star_trails_background_decor_1080x1920_185: -1457146752558415548
+      star_trails_background_decor_1080x1920_186: 3464951539392780149
+      star_trails_background_decor_1080x1920_187: -2311867914011076842
+      star_trails_background_decor_1080x1920_188: 6733971773881102212
+      star_trails_background_decor_1080x1920_189: -8850277584446952828
+      star_trails_background_decor_1080x1920_19: -8561088956155819086
+      star_trails_background_decor_1080x1920_190: -5351811395069395520
+      star_trails_background_decor_1080x1920_191: -9059356343646419152
+      star_trails_background_decor_1080x1920_192: 2704991604147975856
+      star_trails_background_decor_1080x1920_193: -8753992427266498783
+      star_trails_background_decor_1080x1920_194: 5691410461589358528
+      star_trails_background_decor_1080x1920_195: -6272124191485244321
+      star_trails_background_decor_1080x1920_196: 4838940858476498896
+      star_trails_background_decor_1080x1920_197: -2381002019633652535
+      star_trails_background_decor_1080x1920_198: 8092001166139973650
+      star_trails_background_decor_1080x1920_199: 1779187134884805777
+      star_trails_background_decor_1080x1920_2: 629252724816364063
+      star_trails_background_decor_1080x1920_20: 1461645202777061646
+      star_trails_background_decor_1080x1920_200: 450817316175864771
+      star_trails_background_decor_1080x1920_201: 8735507838142552721
+      star_trails_background_decor_1080x1920_202: -1205278369078362934
+      star_trails_background_decor_1080x1920_203: 6160648305765387151
+      star_trails_background_decor_1080x1920_204: 8496110628169168363
+      star_trails_background_decor_1080x1920_205: 928143725289030796
+      star_trails_background_decor_1080x1920_206: -7211642593975633298
+      star_trails_background_decor_1080x1920_207: -4964376083572836056
+      star_trails_background_decor_1080x1920_208: -680629463533323371
+      star_trails_background_decor_1080x1920_209: 4502716992906163840
+      star_trails_background_decor_1080x1920_21: 1735126112274093605
+      star_trails_background_decor_1080x1920_210: -1108046557811598802
+      star_trails_background_decor_1080x1920_211: 7181170866347044046
+      star_trails_background_decor_1080x1920_212: -8832867950952336022
+      star_trails_background_decor_1080x1920_213: -2769297990426477414
+      star_trails_background_decor_1080x1920_214: 3270374499259994285
+      star_trails_background_decor_1080x1920_215: 8482246607803174492
+      star_trails_background_decor_1080x1920_216: -1641489981897477236
+      star_trails_background_decor_1080x1920_217: -3704432961815883950
+      star_trails_background_decor_1080x1920_218: 2447366242919679827
+      star_trails_background_decor_1080x1920_219: 6601803087817319787
+      star_trails_background_decor_1080x1920_22: 3879981890960053351
+      star_trails_background_decor_1080x1920_220: 3489563264797279669
+      star_trails_background_decor_1080x1920_221: 5586199078052172074
+      star_trails_background_decor_1080x1920_222: 2344457531844849425
+      star_trails_background_decor_1080x1920_223: -2709303272802233356
+      star_trails_background_decor_1080x1920_224: 5160773494905341053
+      star_trails_background_decor_1080x1920_225: 6231335881300912140
+      star_trails_background_decor_1080x1920_226: -4379092120330123227
+      star_trails_background_decor_1080x1920_227: 2902717041824343831
+      star_trails_background_decor_1080x1920_228: 515282135879169383
+      star_trails_background_decor_1080x1920_229: 759237126126343659
+      star_trails_background_decor_1080x1920_23: -8085522033118123757
+      star_trails_background_decor_1080x1920_230: -4480102897833133385
+      star_trails_background_decor_1080x1920_231: -3259385503890404038
+      star_trails_background_decor_1080x1920_232: -3239246180759900301
+      star_trails_background_decor_1080x1920_233: 8231674767661969652
+      star_trails_background_decor_1080x1920_234: 5120223780043912189
+      star_trails_background_decor_1080x1920_235: -1463040475063517244
+      star_trails_background_decor_1080x1920_236: 3984118573190766932
+      star_trails_background_decor_1080x1920_237: 4472549747836207519
+      star_trails_background_decor_1080x1920_238: 3683372356275192242
+      star_trails_background_decor_1080x1920_239: -8683583956874273670
+      star_trails_background_decor_1080x1920_24: -8800270843913016109
+      star_trails_background_decor_1080x1920_240: -2749583321628306411
+      star_trails_background_decor_1080x1920_241: -7727964040352959013
+      star_trails_background_decor_1080x1920_242: 6884727080170425315
+      star_trails_background_decor_1080x1920_243: 7013809700520977332
+      star_trails_background_decor_1080x1920_244: 2132988852797581300
+      star_trails_background_decor_1080x1920_245: -6151070643824077595
+      star_trails_background_decor_1080x1920_246: 1117079372767765666
+      star_trails_background_decor_1080x1920_247: -3455137842566641853
+      star_trails_background_decor_1080x1920_248: -7644472386257395192
+      star_trails_background_decor_1080x1920_249: 599191072801618109
+      star_trails_background_decor_1080x1920_25: 2603530427956721540
+      star_trails_background_decor_1080x1920_250: -7448790215106994424
+      star_trails_background_decor_1080x1920_26: 5118389646892540718
+      star_trails_background_decor_1080x1920_27: 8438067327130371963
+      star_trails_background_decor_1080x1920_28: 706265715876061954
+      star_trails_background_decor_1080x1920_29: 7445224308710592095
+      star_trails_background_decor_1080x1920_3: 4395022685573144389
+      star_trails_background_decor_1080x1920_30: 8638643710642368035
+      star_trails_background_decor_1080x1920_31: -2160635372406629675
+      star_trails_background_decor_1080x1920_32: -2390970085365984737
+      star_trails_background_decor_1080x1920_33: -2221802200849566408
+      star_trails_background_decor_1080x1920_34: -7186846489940026740
+      star_trails_background_decor_1080x1920_35: 1079085944061026381
+      star_trails_background_decor_1080x1920_36: -5670901623689132284
+      star_trails_background_decor_1080x1920_37: 973097645664346225
+      star_trails_background_decor_1080x1920_38: -1589831916539757491
+      star_trails_background_decor_1080x1920_39: -2348611790663866798
+      star_trails_background_decor_1080x1920_4: 1339947676971412767
+      star_trails_background_decor_1080x1920_40: -5508956102984089991
+      star_trails_background_decor_1080x1920_41: 5436084636512319639
+      star_trails_background_decor_1080x1920_42: -5452854701449940134
+      star_trails_background_decor_1080x1920_43: 7623643548101563879
+      star_trails_background_decor_1080x1920_44: -1360386421962327974
+      star_trails_background_decor_1080x1920_45: 1122222316455004905
+      star_trails_background_decor_1080x1920_46: 8986446151930366393
+      star_trails_background_decor_1080x1920_47: 9007806589889435172
+      star_trails_background_decor_1080x1920_48: 7139529287138613401
+      star_trails_background_decor_1080x1920_49: -3579545488548642884
+      star_trails_background_decor_1080x1920_5: 3376838702086370267
+      star_trails_background_decor_1080x1920_50: 5153607865111347770
+      star_trails_background_decor_1080x1920_51: -8663667362024790636
+      star_trails_background_decor_1080x1920_52: 6168802995968271267
+      star_trails_background_decor_1080x1920_53: 664229347185414960
+      star_trails_background_decor_1080x1920_54: -6141044843673144857
+      star_trails_background_decor_1080x1920_55: -4432312336409417809
+      star_trails_background_decor_1080x1920_56: -8377329616103198488
+      star_trails_background_decor_1080x1920_57: 1008142380048161095
+      star_trails_background_decor_1080x1920_58: -5653644223781992378
+      star_trails_background_decor_1080x1920_59: -736172787002650698
+      star_trails_background_decor_1080x1920_6: -6407182171365603534
+      star_trails_background_decor_1080x1920_60: -3084230803346159923
+      star_trails_background_decor_1080x1920_61: 2360240066578632658
+      star_trails_background_decor_1080x1920_62: -4282583919833913142
+      star_trails_background_decor_1080x1920_63: 3690269740423710261
+      star_trails_background_decor_1080x1920_64: -8545485514928990481
+      star_trails_background_decor_1080x1920_65: -131344488603118626
+      star_trails_background_decor_1080x1920_66: -2921081445094179712
+      star_trails_background_decor_1080x1920_67: -1891968316664456783
+      star_trails_background_decor_1080x1920_68: -3165710533392290189
+      star_trails_background_decor_1080x1920_69: 8842710007409626758
+      star_trails_background_decor_1080x1920_7: -8983436870498060601
+      star_trails_background_decor_1080x1920_70: 8736690177405204987
+      star_trails_background_decor_1080x1920_71: -83174775567859066
+      star_trails_background_decor_1080x1920_72: 2941302501238644818
+      star_trails_background_decor_1080x1920_73: 3837662079728297937
+      star_trails_background_decor_1080x1920_74: 2518206999397210046
+      star_trails_background_decor_1080x1920_75: -5619348809212538296
+      star_trails_background_decor_1080x1920_76: -7337639401666217447
+      star_trails_background_decor_1080x1920_77: -1417404694534107928
+      star_trails_background_decor_1080x1920_78: -163807705376841187
+      star_trails_background_decor_1080x1920_79: 8965755081116221967
+      star_trails_background_decor_1080x1920_8: 926513466762826969
+      star_trails_background_decor_1080x1920_80: 7939725386742017565
+      star_trails_background_decor_1080x1920_81: -5300647697675663529
+      star_trails_background_decor_1080x1920_82: -537704983141388300
+      star_trails_background_decor_1080x1920_83: -6754857705471132253
+      star_trails_background_decor_1080x1920_84: -6779126531415494425
+      star_trails_background_decor_1080x1920_85: -338480192719955425
+      star_trails_background_decor_1080x1920_86: -4974033347280231642
+      star_trails_background_decor_1080x1920_87: -9079749862332856286
+      star_trails_background_decor_1080x1920_88: 2020426890007474998
+      star_trails_background_decor_1080x1920_89: -4446726495447830925
+      star_trails_background_decor_1080x1920_9: -5366032714673126143
+      star_trails_background_decor_1080x1920_90: 6045225254759717450
+      star_trails_background_decor_1080x1920_91: -6448830707479244707
+      star_trails_background_decor_1080x1920_92: 7557925883921555900
+      star_trails_background_decor_1080x1920_93: 7885469650752597366
+      star_trails_background_decor_1080x1920_94: 5085987600659595056
+      star_trails_background_decor_1080x1920_95: -8559950114371461052
+      star_trails_background_decor_1080x1920_96: 6042336463452333543
+      star_trails_background_decor_1080x1920_97: -2415896732515582989
+      star_trails_background_decor_1080x1920_98: 5600992973658513775
+      star_trails_background_decor_1080x1920_99: 8542554004123890528
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
